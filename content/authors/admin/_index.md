@@ -74,11 +74,9 @@ education:
  
 
 work:
- work:
   - position: Research Associate Intern
     company_name: New York University
     company_url: 'https://www.nyu.edu/'
-    icon: ''
     date_start: 2025-05-01
     date_end: 2025-08-01
     summary: |2-
@@ -87,7 +85,6 @@ work:
   - position: Software Engineer
     company_name: MakeMyTrip Co., Ltd.
     company_url: 'https://www.makemytrip.com/'
-    icon: ''
     date_start: 2023-01-01
     date_end: 2024-05-01
     summary: |2-
@@ -96,7 +93,6 @@ work:
   - position: Software Engineer Intern
     company_name: Samsung Research Institute Inc.
     company_url: 'https://research.samsung.com/'
-    icon: ''
     date_start: 2021-05-01
     date_end: 2022-01-01
     summary: |2-
@@ -105,7 +101,6 @@ work:
   - position: Machine Learning Intern
     company_name: M2R Technomations
     company_url: ''
-    icon: ''
     date_start: 2020-05-01
     date_end: 2020-08-01
     summary: |2-
