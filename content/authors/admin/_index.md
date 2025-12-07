@@ -74,23 +74,42 @@ education:
  
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+ work:
+  - position: Research Associate Intern
+    company_name: New York University
+    company_url: 'https://www.nyu.edu/'
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2025-05-01
+    date_end: 2025-08-01
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Engineered and deployed MCUNet-in4 on Raspberry Pi 4B using PyTorch, ONNX, and TensorFlow Lite, achieving a 50% model-size reduction (11.67MB → 5.56MB) and 19.4% FLOPs reduction while sustaining 91%+ Top-1 accuracy on CIFAR-10. Implemented block-aware soft pruning (40% sparsity) and iterative channel pruning (56.6% removal), shrinking parameters from 1.41M → 0.61M with < 4% accuracy drop. Benchmarked real-world performance with 88ms/batch latency, 45–55°C temps, demonstrating practical TinyML deployment for IoT devices.
 
+  - position: Software Engineer
+    company_name: MakeMyTrip Co., Ltd.
+    company_url: 'https://www.makemytrip.com/'
+    icon: ''
+    date_start: 2023-01-01
+    date_end: 2024-05-01
+    summary: |2-
+      Designed and developed web & mobile frontends with React, Redux, React Native, HTML5/CSS3, JavaScript, and TypeScript, delivering new features, UI revamps, and performance optimizations for large-scale production systems serving 50M+ monthly active users. Delivered 10+ high-impact components and maintained 20+ reusable, responsive React components across 5+ codebases, accelerating feature rollout and ensuring a consistent user experience across apps generating billions in annual GMV. Architected and deployed microservices-based backend systems using Docker, Kubernetes, and AWS (EC2, S3, Lambda, CloudWatch), improving system reliability by 30% and reducing infrastructure costs by 20%.
+
+  - position: Software Engineer Intern
+    company_name: Samsung Research Institute Inc.
+    company_url: 'https://research.samsung.com/'
+    icon: ''
+    date_start: 2021-05-01
+    date_end: 2022-01-01
+    summary: |2-
+      Developed Android features leveraging the MVP design pattern, Jetpack architecture, and Google I/O 2017 best practices for scalable mobile applications. Delivered Dynamic Delivery & Instant Apps, reducing APK size by 60%, accelerating app load times, and boosting installation rates in the App Store. Engineered a secure, high-performance payments module with multiple Payment Gateways, ensuring compliance, scalability, and seamless user experience.
+
+  - position: Machine Learning Intern
+    company_name: M2R Technomations
+    company_url: ''
+    icon: ''
+    date_start: 2020-05-01
+    date_end: 2020-08-01
+    summary: |2-
+      Applied PySpark, NLP, and Machine Learning to analyze large-scale customer-care conversations, automating insights and achieving significant cost optimizations in support operations. Implemented a high-performance SPH fluid simulation with in-house GPU pipeline and OpenGL compute shaders, rendering 200K+ particles at 30 FPS in an Android app powered by Java's Filament rendering engine.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
