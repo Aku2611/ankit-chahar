@@ -27,8 +27,8 @@ role: Software Development Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: New York University
+    url: https://www.nyu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,7 +50,15 @@ interests:
   - Computer Vision
   - Reinforcement Learning
   - AI Ethics
-
+  - Large Language Models
+  - Computer Vision
+  - Reinforcement Learning
+  - Supervised & Unsupervised Learning
+  - Representation Learning
+  - Probabilistic Machine Learning
+  - Neural Architecture Search (NAS)
+  - Model Compression & Acceleration (Pruning, Quantization, Distillation)
+    
 education:
   - area: MS Computer Science (AI Focus)
     institution: New York University
@@ -151,26 +159,20 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Best Paper Award
-    url: https://neurips.cc/
+    url: https://ieeexplore.ieee.org/document/9785330
     date: '2022-12-01'
     awarder: NeurIPS
     icon: hero/trophy
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
   - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+    url: https://ieeexplore.ieee.org/author/37089417732
+    date: '2023-06-15'
+    awarder: IEEE
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Grant for research in ethical AI development.
+  
 ---
 
 Ankit Chahar is a Master of Science in Computer Engineering candidate at NYU with robust expertise in full-stack development, machine learning, and cloud architecture. He brings impactful industry experience from MakeMyTrip and Samsung Research, where he engineered scalable microservices and frontend solutions for over 50 million monthly users using AWS, Docker, and React. Additionally, Ankit possesses specialized knowledge in Edge AI and model compression, complemented by a portfolio of published research in IEEE and Springer conferences.
